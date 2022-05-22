@@ -31,3 +31,6 @@
 - [rainwangpupil/Code-example-making-tutorial](https://github.com/rainwangpupil/code-example-making-tutorial)
 
    我的博客，里面是md文件，讲解的是教你如何从零开始写一些奇奇怪怪的项目
+- [rainwangpupil/ball_animation](https://github.com/rainwangpupil/ball_animation)
+
+   用HTML加CSS做的一个有趣的小球动画，可能还有些bug，作者还在修复，请谅解
