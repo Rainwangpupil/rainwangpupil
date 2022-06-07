@@ -24,6 +24,6 @@
 
    一个命令行黑客工具，可以用来DOS攻击
    
-- [rainwangpupil/Hainei-OS](https://github.com/rainwangpupil/dos_attack)
+- [rainwangpupil/Hainei-OS](https://github.com/rainwangpupil/Hainei-OS)
 
    一个基于Linux的操作系统，目前只有命令行模式
